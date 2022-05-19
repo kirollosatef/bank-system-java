@@ -4,7 +4,7 @@
     i used #Inheritance , #Polymorphism , #Abstraction , #Interface
     => Console Application
 
-    i'll add anetwork layer later :)
+    i'll add more feature later :)
     LIKE -> Database - GUI - methodes
 
 ## 1. Bank system class
